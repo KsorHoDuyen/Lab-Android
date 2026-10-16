@@ -1,10 +1,11 @@
-# Học phần: Lab Android
-
-## Thông tin sinh viên
-- **Họ và tên**: [Điền Họ và tên của bạn]
-- **Mã số sinh viên**: [Điền MSSV của bạn]
-- **Lớp**: [Điền tên Lớp của bạn]
-
-## Danh sách bài thực hành
-- [x] Lab01_FormDangKy: Form đăng ký (XML + View Binding)
-- [ ] Lab02_DanhSachSinhVien: Danh sách sinh viên (Jetpack Compose)
+# H?C PH?N LAB ANDROID 
+**H? v� t�n:** Ksor H'Duy�n 
+**Ma sinh vi�n:** (Di?n MSV c?a b?n t?i d�y) 
+**L?p:** (Di?n t�n l?p c?a b?n t?i d�y) 
+ 
+## Danh s�ch b�i th?c h�nh 
+- [x] **Lab 01:** Form dang ky (XML + View Binding) 
+- [x] **Lab 02:** Danh s�ch sinh vi�n (Jetpack Compose) 
+- [ ] **Lab 03:** Intent v� chuy?n m�n h�nh 
+- [ ] **Lab 04:** Co s? d? li?u SQLite 
+- [ ] **Lab 05:** K?t n?i API 
