@@ -1,11 +1,11 @@
-# H?C PH?N LAB ANDROID 
-**H? v… tˆn:** Ksor H'Duyˆn 
-**Ma sinh viˆn:** (Di?n MSV c?a b?n t?i dƒy) 
-**L?p:** (Di?n tˆn l?p c?a b?n t?i dƒy) 
+# Há»ŒC PHáº¦N LAB ANDROID 
+Há» vÃ  tÃªn: Ksor Há» DuyÃªn
+MÃ£ sinh viÃªn: 231CTT032
+Lá»›p: DHC23CTT01 
  
-## Danh s ch b…i th?c h…nh 
-- [x] **Lab 01:** Form dang ky (XML + View Binding) 
-- [x] **Lab 02:** Danh s ch sinh viˆn (Jetpack Compose) 
-- [ ] **Lab 03:** Intent v… chuy?n m…n hnh 
-- [ ] **Lab 04:** Co s? d? li?u SQLite 
-- [ ] **Lab 05:** K?t n?i API 
+# Danh sÃ¡ch bÃ i thá»±c hÃ nh
+- Lab 01: Form Ä‘Äƒng kÃ½ (XML + View Binding)
+- Lab 02: Danh sÃ¡ch sinh viÃªn (Jetpack Compose)
+- Lab 03: Intent vÃ  chuyá»ƒn mÃ n hÃ¬nh
+- Lab 04: CÆ¡ sá»Ÿ dá»¯ liá»‡u SQLite
+- Lab 05: Káº¿t ná»‘i API
