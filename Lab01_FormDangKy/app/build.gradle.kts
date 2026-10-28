@@ -18,7 +18,6 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    // Bật View Binding tại đây
     buildFeatures {
         viewBinding = true
     }

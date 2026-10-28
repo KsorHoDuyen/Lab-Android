@@ -11,17 +11,12 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
-        // Khởi tạo View Binding
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
-        // Bắt sự kiện click nút Đăng ký
         binding.btnRegister.setOnClickListener {
             val name = binding.edtName.text?.toString()?.trim().orEmpty()
             val email = binding.edtEmail.text?.toString()?.trim().orEmpty()
             val password = binding.edtPassword.text?.toString()?.trim().orEmpty()
-
             if (name.isEmpty() || email.isEmpty() || password.isEmpty()) {
                 Toast.makeText(this, "Vui lòng nhập đủ thông tin", Toast.LENGTH_SHORT).show()
             } else {

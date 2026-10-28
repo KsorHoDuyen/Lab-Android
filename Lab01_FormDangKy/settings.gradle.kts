@@ -24,4 +24,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Lab01_FormDangKy"
 include(":app")
- 
