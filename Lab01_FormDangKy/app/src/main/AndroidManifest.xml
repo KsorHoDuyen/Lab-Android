@@ -26,15 +26,21 @@
         <activity
             android:name=".Lab3Activity"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
 
         <activity
             android:name=".Lab3DetailActivity"
             android:exported="false" />
+
+        <!-- Thêm Activity cho Lab 4 và đặt intent-filter để chạy trực tiếp -->
+        <activity
+            android:name=".Lab4ThemeActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
 
     </application>
 
